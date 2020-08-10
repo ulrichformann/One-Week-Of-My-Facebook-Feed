@@ -1,0 +1,16 @@
+{
+  "name": "wallofshit",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Ulrich Formann",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "fs-extra": "^5.0.0",
+    "puppeteer": "^1.1.1"
+  },
+  "scripts": {
+    "start": "node src/"
+  }
+}
